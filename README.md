@@ -14,7 +14,8 @@ It's useful for quickly writing up some text, and visualising it in a neat layou
 
 ## Usage
 
-> :warning: **Warning**: It is advised to use a monospaced font to ensure accurate bounding rectangle dimensions.
+> [!NOTE]
+> It is advised to use a monospaced font to ensure accurate bounding rectangle dimensions.
 
 1. Open an Adobe Illustrator project.
 2. Select the text frame you want to create bounding rectangles for.
